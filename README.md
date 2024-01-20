@@ -5,8 +5,8 @@ Welcome to my Data Structures and Algorithms Playground in C! 🚀 This reposito
 
 🌐 Languages:
 
-Primary Language: C  
-  
+Primary Language: C
+
 📚 Contents:
   
 Data Structures: Explore a variety of essential data structures, including arrays, linked lists, stacks, queues, trees, and more. Each implementation is designed for clarity, efficiency, and ease of understanding.
