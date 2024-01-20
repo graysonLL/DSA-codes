@@ -4,7 +4,6 @@ repository for Data Structure and Algorithm Codes
 Welcome to my Data Structures and Algorithms Playground in C! 🚀 This repository houses a collection of well-crafted and efficient implementations of fundamental data structures and algorithms, all written in the powerful and versatile C programming language.
 
 🌐 Languages:
-
 Primary Language: C  
   
 📚 Contents:
